@@ -1,3 +1,33 @@
 <resources>
     <string name="app_name">ScheduledTask</string>
+
+
+    <!--Login labels-->
+
+    <string name="tec_login_phonenumber">Phone No</string>
+    <string name="tec_login_passord">Password</string>
+
+    <!--Ends here-->
+
+
+
+    <!--The registration labels-->
+
+    <string name="tec_firstname">Firstname</string>
+    <string name="tec_lastname">Lastname</string>
+    <string name="tec_emailaddress">Email</string>
+    <string name="tec_phonenumber">Phone No.</string>
+    <string name="tec_address">Address</string>
+    <string name="tec_password">Password</string>
+    <string name="tec_confirm_password">Confirm Password</string>
+    <string name="signup_heading">Sign Up</string>
+    <string name="signup_submit">Submit</string>
+    <string name="pincode">Pincode</string>
+
+    <!--Ends here-->
+
+
+
+
+
 </resources>
